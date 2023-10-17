@@ -1,0 +1,3 @@
+﻿  Search.cpp
+E:\Important\Projects\C++\Algorithms\Search\Search.cpp(20,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Search.vcxproj -> E:\Important\Projects\C++\Algorithms\x64\Debug\Search.exe
