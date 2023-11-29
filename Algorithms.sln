@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search", "Search\Search.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataStructures", "DataStructures\DataStructures.vcxproj", "{D837DC49-EF88-4E7F-9461-0D51CB2DDC93}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sort", "Sort\Sort.vcxproj", "{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{D837DC49-EF88-4E7F-9461-0D51CB2DDC93}.Release|x64.Build.0 = Release|x64
 		{D837DC49-EF88-4E7F-9461-0D51CB2DDC93}.Release|x86.ActiveCfg = Release|Win32
 		{D837DC49-EF88-4E7F-9461-0D51CB2DDC93}.Release|x86.Build.0 = Release|Win32
+		{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}.Debug|x64.ActiveCfg = Debug|x64
+		{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}.Debug|x64.Build.0 = Debug|x64
+		{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}.Debug|x86.Build.0 = Debug|Win32
+		{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}.Release|x64.ActiveCfg = Release|x64
+		{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}.Release|x64.Build.0 = Release|x64
+		{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}.Release|x86.ActiveCfg = Release|Win32
+		{023E7FFD-2DF6-4E7C-819E-6738C7246C0F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

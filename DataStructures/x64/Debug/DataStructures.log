@@ -1,3 +1,6 @@
 ﻿  DataStructures.cpp
 E:\Important\Projects\C++\Algorithms\DataStructures\list.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Queue.cpp
+  Stack.cpp
+  Создание кода...
   DataStructures.vcxproj -> E:\Important\Projects\C++\Algorithms\x64\Debug\DataStructures.exe

@@ -1,0 +1,38 @@
+﻿  Main.cpp
+E:\Important\Projects\C++\Algorithms\Sort\BubbleSort.h(28,130): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Important\Projects\C++\Algorithms\Sort\SelectionSort.h(26,130): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Important\Projects\C++\Algorithms\Sort\InsertSort.h(28,130): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Important\Projects\C++\Algorithms\Sort\QuickSort.h(40,130): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Important\Projects\C++\Algorithms\Sort\MergeSort.h(59,130): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Important\Projects\C++\Algorithms\Sort\ShellSort.h(28,130): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Important\Projects\C++\Algorithms\Sort\BucketSort.h(37,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\Important\Projects\C++\Algorithms\Sort\BucketSort.h(47,130): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Sort.vcxproj -> E:\Important\Projects\C++\Algorithms\x64\Debug\Sort.exe
